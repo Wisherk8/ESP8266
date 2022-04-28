@@ -7,8 +7,8 @@
 #include "WiFiUDP.h"                                // Подключает библиотеку UDP
 #include "MAX6675_Thermocouple.h"
 
-const char* ssid = "Wisherk8_2.4G";               // Название Вашей WiFi сети
-const char* password = "147896325Aa";          // Пароль от Вашей WiFi сети
+const char* ssid = "test";               // Название Вашей WiFi сети
+const char* password = "123456789";          // Пароль от Вашей WiFi сети
 
 #define SCK_PIN 15 //D8
 #define CS_PIN 13 //D7
